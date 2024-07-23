@@ -1,0 +1,29 @@
+[
+   {
+      "featureType": "landscape.man_made",
+      "elementType": "geometry",
+      "stylers": [
+         {
+            "color": "#f2f2f2"
+         }
+      ]
+   },
+   {
+      "featureType": "road.highway",
+      "elementType": "geometry.fill",
+      "stylers": [
+         {
+            "color": "#fcf297"
+         }
+      ]
+   },
+   {
+      "featureType": "water",
+      "elementType": "geometry.fill",
+      "stylers": [
+         {
+            "color": "#d6edf0"
+         }
+      ]
+   }
+]
